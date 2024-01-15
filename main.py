@@ -1,6 +1,6 @@
 import telebot
 import sqlite3
-bot = telebot.TeleBot(token='6894670900:AAE7_slBvOrsXqmaXEvU6yLh_0H6yHRK63s')
+bot = telebot.TeleBot(token='API_TOKEN')
 
 name = None
 
